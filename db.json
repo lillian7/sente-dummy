@@ -3,7 +3,7 @@
     {
     "phoneNumberLandLord" : "",
     "createdAt" : "",
-    "id" : "",
+    "id" : "2",
     "areaCode" : "CSC_NAJJANANKUMBI",
     "customerName" : "FRANCIS KITAKA",
     "serviceNumber" : "200102980",
@@ -16,7 +16,7 @@
    {
     "phoneNumberLandLord" : "",
     "createdAt" : "",
-    "id" : "",
+    "id" : "34",
     "areaCode" : "CSC_NAJJANANKUMBI",
     "customerName" : "BIRALI MAGUMBA",
     "serviceNumber" : "200441741",
@@ -29,7 +29,7 @@
   {
     "phoneNumberLandLord" : "",
     "createdAt" : "",
-    "id" : "",
+    "id" : "45",
     "areaCode" : "CSC_NAJJANANKUMBI",
     "customerName" : "DAMANI KAUSHIKROY",
     "serviceNumber" : "200458324",
@@ -42,7 +42,7 @@
   {
     "phoneNumberLandLord" : "",
     "createdAt" : "",
-    "id" : "",
+    "id" : "74",
     "areaCode" : "CSC_NAJJANANKUMBI",
     "customerName" : "DOROTHY KAUSHIK EROY",
     "serviceNumber" : "230458324",
@@ -56,7 +56,7 @@
   {
     "phoneNumberLandLord" : "",
     "createdAt" : "",
-    "id" : "",
+    "id" : "98",
     "areaCode" : "CSC_NAJJANANKUMBI",
     "customerName" : "DAMALIE USHIRI",
     "serviceNumber" : "400458324",
