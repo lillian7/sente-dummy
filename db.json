@@ -38,6 +38,33 @@
     "longitude" : "",
     "latitude" : "",
     "phoneNumber" : ""
+  },    
+  {
+    "phoneNumberLandLord" : "",
+    "createdAt" : "",
+    "id" : "",
+    "areaCode" : "CSC_NAJJANANKUMBI",
+    "customerName" : "DOROTHY KAUSHIK EROY",
+    "serviceNumber" : "230458324",
+    "itinerary" : "3704",
+    "metreNumber" : "UM202172",
+    "longitude" : "",
+    "latitude" : "",
+    "phoneNumber" : ""
+  },
+    
+  {
+    "phoneNumberLandLord" : "",
+    "createdAt" : "",
+    "id" : "",
+    "areaCode" : "CSC_NAJJANANKUMBI",
+    "customerName" : "DAMALIE USHIRI",
+    "serviceNumber" : "400458324",
+    "itinerary" : "3704",
+    "metreNumber" : "UM20672",
+    "longitude" : "",
+    "latitude" : "",
+    "phoneNumber" : ""
   }
   ]
 }
